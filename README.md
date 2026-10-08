@@ -7,19 +7,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&duration=4000&size=35&center=true&vCenter=true&width=1000&lines=welcome;to+my+profile!)
 
 <p float="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=divertentes&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" style="height: 193px; width: 450px;"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=divertentes&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" style="height: 190px; width: 380px;"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=teovx&show_icons=true&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub stats" style="height: 193px; width: 450px;"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=teovx&layout=compact&hide_border=true&theme=panda&bg_color=00000000" alt="GitHub top languages" style="height: 190px; width: 380px;"/>
 </p>
 <hr width="100%" />
 
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"
-  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"
-  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"
-  <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="50" height="50"
+<p align="center" mr-5>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" hspace="4" width="50" height="50"
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" hspace="4" width="50" height="50"
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" hspace="4" width="50" height="50"
+  <a href="https://www.w3schools.com/java/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" hspace="4" width="50" height="50"
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" hspace="4" width="50" height="50"
+  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" hspace="4" width="50" height="50"
+  <a href="https://www.w3schools.com/react/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" hspace="4" width="50" height="50"
 </p>
 
 <hr width="100%" />
